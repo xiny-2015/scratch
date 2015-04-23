@@ -1,0 +1,2 @@
+# stratch
+  crawl,snail
