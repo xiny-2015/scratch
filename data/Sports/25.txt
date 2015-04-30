@@ -1,0 +1,64 @@
+    SOHU.com
+    Automatic rolling
+    Var theFloaters = new floaters ();
+    TheFloaters.play ();
+    Var formlist='';
+    Formlist=formlist+'';
+    Automatic rolling formlist=formlist+'';
+    TheFloaters.addItem ('formdiv2','document.body.clientWidth-106', 0, formlist);
+    TheFloaters.play ();
+    TimeScrollCentAll ();
+    SetCookie ("sports007MenLeft", "")
+    SetCookie ("sports007centLeft", "0"); SetCookie ("sports007centRight", "0"); SetCookie ("sports007centTime", "rest");
+    SetCookie ("sports007MenRight", "")
+    Sohu live: 7 a.m. Beijing time on May 10th morning, Sohu sports will bring second NBA playoff semi-final contest East Detroit and Cleveland for you, welcome to [0:0]
+    Sohu live: at both sides of the first leg clash, the piston in the ratio of 113 to 86 victory over the knights in the palace of Auburn Hills, today they continue to return home court, looking forward to winning streak in [0:0]
+    Sohu live member: Yao Ming said the left foot injury recovered well small giant in June will be discharged [0:0]
+    Sohu live member: Rocket trading raise a Babel of criticism of "the future Nash" is expected to partner Yao Ming [0:0]
+    Sohu live member: Rocket record bad Van Gundy has been ranked the three largest overpaid coach [0:0]
+    Sohu live member: Prospective: calf still don't attack Duncan? James by Prince challenge [0:0]
+    Sohu live member: the first section, both sides of the game started, after the jump ball after Knight first obtain the right to attack [0:0]
+    The live: El Gauss [0:0 Castro is not shooting]
+    Sohu live: Ben Wallace off the snow ball in hand [0:0]
+    SetCookie ("sports007centLeft", "2"); SetCookie ("sports007centRight", "0"); SetCookie ("sports007centTime", "the first day");
+    Sohu live member: Rashid Wallace shooting [2:0]
+    Sohu live: James jumper, Rashid Wallace rebounds, [2:0]
+    Sohu live: Rashid Wallace shots, James made a defensive rebound [2:0]
+    SetCookie ("sports007centLeft", "2"); SetCookie ("sports007centRight", "2"); SetCookie ("sports007centTime", "the first day");
+    Sohu live member: James left jumper to get two [2:2]
+    Sohu live: Gordon defensive foul, but Rashid Wallace missed two free throws [2:2]
+    The live: El Gauss Kass made [2:2 rebounds]
+    The live person: Snow on the right side of his shot, but after Hamilton's layup didn't score [2:2]
+    SetCookie ("sports007centLeft", "2"); SetCookie ("sports007centRight", "4"); SetCookie ("sports007centTime", "the first day");
+    The live person: Gordon receiving the Hughes pass score [2:4]
+     SetCookie ("sports007centLeft", "2"); SetCookie ("sports007centRight", "6"); SetCookie ("sports007centTime", "the first day");
+    Sohu live: James hit the jumper, and Hughes assists [2:6]
+    Sohu live: Ben Wallace jumper missed, Gordon made [2:6 rebounds]
+    Sohu live member: snow left is not shooting, Rashid Wallace grabbed the rebound [2:6]
+    SetCookie ("sports007centLeft", "5"); SetCookie ("sports007centRight", "6"); SetCookie ("sports007centTime", "the first day");
+    Sohu live member: Rashid Wallace received a pass from Prince right three point hit [5:6]
+    SetCookie ("sports007centLeft", "5"); SetCookie ("sports007centRight", "8"); SetCookie ("sports007centTime", "the first day");
+    Sohu live member: James left his shot, Gordon get offensive rebounds after scoring [5:8]
+    Sohu live member: Rashid Wallace high three shots do not [5:8]
+    Sohu live member: Hughes on the left side of the bottom line shot failed, Rashid Wallace rebounds, [5:8]
+    SetCookie ("sports007centLeft", "8"); SetCookie ("sports007centRight", "8"); SetCookie ("sports007centTime", "the first day");
+    Sohu live: Hughes defensive foul, after Prince assists Billups three points go well [8:8]
+    The live: El Gauss [8:8 Cass high jumper not]
+    Sohu live member: Hamilton shot wide, Hughes made [8:8 rebounds]
+     SetCookie ("sports007centLeft", "8"); SetCookie ("sports007centRight", "10"); SetCookie ("sports007centTime", "the first day");
+    Sohu live member: Snow received a pass from Hughes layup [8:10]
+    Sohu live: Rashid Wallace missed a shot, James made [8:10 rebounds]
+    Sohu live member: the first quarter game with 5 minutes and 48 seconds, the piston request to suspend [8:10]
+    Sohu live member: end of the suspension, the game continues [8:10]
+    Sohu live: Knight 24 second violation [8:10]
+    Sohu live clerk: right wing Billups tried three points not get rebounds, Snow [8:10]
+    Sohu live: Snow layup, Ben Wallace get defensive rebounds [8:10]
+    SetCookie ("sports007centLeft", "10"); SetCookie ("sports007centRight", "10"); SetCookie ("sports007centTime", "the first day");
+    The live person: Prince receiving the Billups pass left jumper with [10:10]
+    Sohu live clerk: right wing Hughes shot 18 feet wide, Rashid Wallace rebounds, [10:10]
+    Sohu live: James defense Prince foul [10:10]
+    SetCookie ("sports007centLeft", "12"); SetCookie ("sports007centRight", "10"); SetCookie ("sports007centTime", "the first day");
+    Sohu live: Prince made two free throws [12:10]
+    The live: El Gauss Cass attack three seconds [12:10]
+    Sohu live: Billups jumper, Ben Wallace get offensive rebounds [12:10]
+    SetCookie ("sports007centLeft", "15"); SetCookie ("sports007centRight", "10"); SetCookie ("sports007centTime", "the first day");

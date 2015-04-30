@@ -1,0 +1,30 @@
+&amp;nbsp;
+[source: Tsinghua University press]
+&amp;gt; &amp;gt; book recommendation: "2007MBA entrance exam preparation course. Logic section"
+Critical reasoning in GMAT test (Critical Reasoning) is closely related with the logic reasoning. The MBA entrance exam comprehensive ability test logic reasoning ability test is the reference America GMAT test design, the examination content and form and GMAT examination has have all kinds of connections with contact. Over the years from MBA logic examination syllabus and examination situation, logical examination dabbling, content is very extensive, involving natural and social fields, however, the professional knowledge of logic reasoning questions do not test logic, MBA logic reasoning test does not require candidates to have special principles of logic and critical thinking theory, but to test candidates to understand, for all kinds of information analysis and refining capacity, especially the ability of key test candidates analysis, comparison, evaluation, and refute various reasoning or argument.
+MBA highly competitive entrance examination, be familiar with some basic knowledge of logic, master the basic method of some logic, helped Yu Kaosheng in the examination room, accurate and quick problem solving. The concept and the basic rules of inference form first chapter, concept and logic reasoning section reasoning
+The basic theory of logic is a form of reasoning effectiveness of science, the study object of logic and critical thinking are reasoning or argument. Critical thinking is focused on the following issues: a variety of reasons given a personal belief or action, analysis, evaluation of one's own or another person's reasoning or argument, design, construct better reasoning and argumentation.
+One, the concept of
+Concept is the basic elements of the composition proposition and inference, is the most basic unit of thinking form. The concept of connotation and denotation. The connotation of the concept is a special concept reflects the things or the nature of things; the extension of a concept is a reflection of different kinds of things in the concept of the. The relationship between the concepts can be divided into compatible and incompatible relationships between two categories.
+Includes a compatibility relation concept: the same relationship, affiliation, cross relationship. The same relationship refers to the relationship between the two concepts of epitaxial completely coincide; affiliation is extension of a concept that contains all the epitaxial relationship between another concept; cross relation refers to the extension of a and the relationship between the two concepts of only a part of the overlap of the.
+Two, proposition
+A theory consists of the proposition. The premise and conclusion reasoning alone seems proposition. Different kinds of analysis of proposition leads to different kinds of analysis of reasoning structure.
+(a) categorical proposition
+Categorical analysis method is a proposition to proposition subject predicate analysis, where it split into different elements: the main item, predicate, items and quantity. The subject and predicate are collectively referred to as the "terms", represented by uppercase letters English; if the main item represents a single object, are represented by lowercase letters. United have "yes" and "no", "all", the amount a "some".
+(two) a compound proposition
+Method for analysis of a composite proposition is the single proposition as a whole is no longer analysis, through Propositional connectives to combine them into a compound proposition. In everyday language, this kind of words have:
+(1) and, then, not only...... But...... Although,... But...... , neither... Don't...... ;
+(2) or...... Or...... Perhaps,... Maybe...... Or. Either...... ;
+(3) if... So...... As long as,... It...... Once,... It...... , only... Only...... , not...... Don't...... ,...... Unless...... ;
+(4) if and only if, if...... So...... And, only... Only...... ;
+(5) is not, is not.
+Three, inference
+Reasoning from the thinking process or thinking form one or some of the known proposition that the new proposition, which is the premise of known proposition, proposition is that the new conclusion.
+The following reasoning is launched the final conclusion by four propositions:
+Birds have wings,
+The wild goose wings,
+The swans had wings,
+The bird, wild geese, swans are flying in the sky of animal,
+So, whatever animal flying wings.
+The reasoning is usually divided into deductive reasoning and inductive reasoning. Deductive reasoning is generally said to be from the general to the specific reasoning, according to some general principle and individual example, draw some new conclusions about the individual examples. Inductive reasoning is said to be from individual to general reasoning, that is, from a certain number of individual fact, abstract, summarize some general theory. But it is more accurate to say that: deductive reasoning is the inevitable reasoning, which is the premise to ensure the conclusion really really; inductive reasoning is probable reasoning, only provide some support on the relationship between conclusion premise conclusion may not be really, really.
+The form of reasoning, is then refers to the concrete content in a reasoning out every proposition the preserved the model or framework, or say, is between the various propositions expressing different thinking content in multiple reasoning with the common way of contact, by the logical constants (such as propositional connective "or", "and", "if,", "when and only when the" and "not", categorical proposition of "Shi" and "not", "all" and "some of the Quantifier" etc.) and logical variables (such as propositional variables p, Q, R, s, t, term variable S, P, M etc.) constitute. Any reasoning can be expressed as a "if the premises (Cheng Li), then the conclusion (Cheng Li)" conditional proposition, as long as

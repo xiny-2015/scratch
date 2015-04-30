@@ -1,0 +1,39 @@
+A technical term, translation
+The term is a special concept words, technical terms is that a special concept words in science and technology. So translation we must pay great attention to, can not be ignored. Features of scientific and technical terms in English there is meaning, professional and strong, the translation must be cautious handling according to the professional content, little attention will cause great errors. If some people regard the
+Newly developed picture tub (picture of the newly developed tube) mistranslated as "recently by the development of the picture tube"; also some people regard "a unique
+Instant-picture
+System "(instantaneous imaging device unique) mistranslated as" image system "the only fast etc.. Again with the term "cassette" as an example, which in addition to other aspects of the meaning, in the tape also has two meanings: one is "packing tape cartridge", one for "cassette tape". What should be translated to mean that, to judge from the specific meaning of context analysis. Such as radio recorder imports instructions on "checking
+The cassette "and" to insert cassette "two small title, what should be how to translate? It seems that respectively to the
+Translated as "check the cassette tape" and "mounted on a cassette tape", than were translated as "check the tape box" and "Mount cartridge" better.
+Two, English for science and Technology (including the increase or decrease in multiple comparison) Chinese Translation
+Translation 1, the multiple increase
+The English said "increased the number of times", is even the base is also included, is said to increase after the results; while in Chinese the so-called "increased the number of times", only said the sheer quantity increased. So the English who said multiple increase of the sentence, E-C translation can be translated into "...... A few times ", or" than... Add (n-1) times". For ease of reference, we will be in English is a multiple of some of the increased expression and its translation method are summarized as follows:
+For example:
+A The production of various stereo recorders has been increased four times
+As against 1977 (various Stereo Recorder output increased by three times compared with 1977. )
+B The output of color television receivers increased by a factor of 3 last
+Last year, year. (color TV receiver output has increased by two times. )
+It should be pointed out, some books that are multiples of multiple by behind the net increase, translation should be translated as "net increase the number of times", without the minus one times. I think this translation method may not be appropriate, because "by n
+By "times" means "n number. Such as the 15 increased by 5 times is a 15 x 5 = 75 means, 75 compared with 15 is obviously increased by four times, not five times.
+Translation 2, multiple comparisons
+(1) "n times + larger than + is the comparison object", says its size "...... N times ", or" than... Big n-1 times ". For example: This
+Thermal power plant is four times larger than that one. (the thermal power station is three times larger than that of thermoelectric. )
+This is because the English expression in multiple comparison, the traditional practice is equal to as large larger than
+As, so the translation not only from literal understanding, be translated as "than...... Big n times ", but the" is... N times ", or" than... Big n-1 times ".
+(2) "n times + as + X + as + objects being compared," said "is...... N times ". For example: Iron is almost three
+Times as heavy as aluminum. (iron is almost three times as heavy as aluminum. )
+Translation 3, multiple reduction
+In English all is a multiple of reduced sentence, E-C translation to convert it into a fraction, but not literally translate into reduced the number of times. Because Chinese is not the expression, so it should be translated into reduced fraction, or reduced to a fraction of a few. How much or what we say, mean difference, difference shall be in the original quantity as the standard, but not to reduce the number of standard. English is a multiple of reduced expressions for the first kind:"......
+The significance of the predicate + by + reduced a factor o f n or by n times". This expression means "into the N fold reduction", namely reducing before the quantity to reduce the number of post.
+(1) The automatic assembly line can shorten the assembling period (by) ten
+Times. (automatic assembly line can shorten the period 9/10. )
+(2) This metal is three times as light as that one.
+(that is 2/3 lighter than the metal metal) second forms of expression for "n times + reduction compared with significance".
+Partial negation translation in English of science and technology, three
+In the negative structure in English, because the usage problems, part of the negative sentence meant by the word order of the surface is not translated into Chinese, therefore, the translation should pay special attention to.
+Contains all the meaning in English pronouns and adverbs such as all every both always altogether
+Entirely are collectively known as the umbrella term. They are used in negative structure is not to say that all negative, but represents only a portion of which was in the negative. Therefore, translation should not be translated as "everything... "Not, but should be translated as" not all... Are ", or" all... Not all ". For example:
+(1) All of the heat supplied to the engine is not converted into useful
+Work. (all of the heat supplied to the engine is not converted into useful work. Eg: all of the heat supplied to the engine are not converted into useful work. )
+(2) Every one cannot do these tests. (not everyone can do these tests. Eg: every one cannot do these tests. )
+(3) Both Inst
