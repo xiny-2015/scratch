@@ -1,3 +1,4 @@
 svm-predict
 svm-train
 svm-scale
+*.obj
