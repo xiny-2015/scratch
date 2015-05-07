@@ -1,4 +1,4 @@
-[Topic]
+﻿[Topic]
 Please refer to the "simple" as the topic, write an article, shows a custom, since the topic, style choice, no less than 800 words.
 [exercise] friends
 Simple

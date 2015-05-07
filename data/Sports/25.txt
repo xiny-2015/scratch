@@ -1,4 +1,4 @@
-    SOHU.com
+﻿    SOHU.com
     Automatic rolling
     Var theFloaters = new floaters ();
     TheFloaters.play ();

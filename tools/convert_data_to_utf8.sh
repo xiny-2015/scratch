@@ -1,8 +1,9 @@
 
 function convert_multi_file()
 {
-    for file in $(find ../data -name "*.txt"); do
-        iconv -f cp936 -t utf-8 "$file" -o ${file}
+    for file in $(find ../data -type f -name "*.txt"); do
+        #iconv -f cp936 -t utf-8 "$file" -o ${file}
+        vim +"argdo se bomb | se fileencoding=utf-8 | wq" ${file}
         if [ $? -ne 0 ]
         then
             echo "${file} fail"

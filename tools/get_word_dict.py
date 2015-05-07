@@ -11,6 +11,8 @@ def parse_data(data_path):
         return
 
     for root, dirs, files in os.walk(data_path):
+        if '~' in dirs:
+            dirs.remove('~')  # don't visit ~ directories
         print("parsing",root,":total",len(files) ,"file")
         for sample_data_file in files:
             sample_data_path = join(root,sample_data_file)

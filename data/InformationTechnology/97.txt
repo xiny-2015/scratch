@@ -1,4 +1,4 @@
-[Sadie WebEx] May 10th news Microsoft warned Tuesday that the existence of its Windows operating system and enterprise Exchange software two "serious" security vulnerability could enable the attacker to steal control of user computer. .
+﻿[Sadie WebEx] May 10th news Microsoft warned Tuesday that the existence of its Windows operating system and enterprise Exchange software two "serious" security vulnerability could enable the attacker to steal control of user computer. .
 According to the Reuters reports, Microsoft released the two patch repair loopholes in its monthly security bulletin. Microsoft Windows operating system running on 90% of the world's computer.
 According to the Microsoft definition, "serious" level vulnerabilities can be in user without any operation on the computer to allow the harmful network worms replicate.
 Microsoft Exchange software users can through the computer network to send and receive e-mail.

@@ -1,4 +1,4 @@
-Report from our correspondent (reporter Wang Jing) reporter yesterday from the Intel company confirmed, Intel will be unified desktop and notebook brand CPU, existing Pentium
+﻿Report from our correspondent (reporter Wang Jing) reporter yesterday from the Intel company confirmed, Intel will be unified desktop and notebook brand CPU, existing Pentium
 4 (Pentium 4) and Core Duo (Ku Rui) will be "Core 2
 Duo "(core 2 Duo) replace, new brand is expected from the 3 quarter of this year to start using the products. Has influenced a generation of computer human "Pentium" brand will gradually withdraw from the stage of history.
 Intel stakeholders told reporters, Intel these two new dual core processor codename is Conroe respectively (desktop processor) and Merom (notebook computer processor), because they are used in a new generation of Intel Core microarchitecture, the end of the previous Intel desktops and notebook computer processor architecture is not a result of product brand confusion the situation. Intel took the opportunity, will be unified for desktop and laptop processors for the brand "Core
