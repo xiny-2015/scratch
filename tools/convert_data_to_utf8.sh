@@ -1,4 +1,4 @@
-
+# use vim convert all file encoding into utf8
 function convert_multi_file()
 {
     for file in $(find ../data -type f -name "*.txt"); do
