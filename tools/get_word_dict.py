@@ -2,6 +2,8 @@
 import os
 from os.path import join
 
+word_set = set()
+
 def parse_data(data_path):
     """
     @data_path 
@@ -18,7 +20,9 @@ def parse_data(data_path):
             sample_data_path = join(root,sample_data_file)
             print(sample_data_path)
             for line in open(sample_data_path):
-                print(line)
+                for word in line:
+                    print(word,end="")
+                    word_set.add(word)
 #        print(sum([getsize(join(root, name)) for name in files]), end="")
 #        print("bytes in", len(files), "non-directory files")
 #        if 'CVS' in dirs:
@@ -28,3 +32,4 @@ def parse_data(data_path):
 
 if __name__ == '__main__':
     parse_data("../data")
+    print(word_set)
